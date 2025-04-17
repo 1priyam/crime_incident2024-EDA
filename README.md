@@ -23,7 +23,7 @@ This project provides a deep dive into crime incidents reported in **Washington,
 - Detect outliers and correlate numerical variables
 - **NEW:** Explore temporal-geographic patterns (e.g., seasonal hotspots)
 
----
+***********
 
 ## 📂 Dataset
 
