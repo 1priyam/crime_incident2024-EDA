@@ -8,7 +8,7 @@
 
 ---
 
-## 📝 Project Overview
+## 📝 Project Overview 
 
 This project provides a deep dive into crime incidents reported in **Washington, D.C. during 2024**, with the aim of uncovering hidden patterns, identifying high-risk areas, and informing public safety strategies. Through **Exploratory Data Analysis (EDA)** techniques, this analysis visualizes crime distribution across time, geography, and categories such as offense types and law enforcement responses.
 
